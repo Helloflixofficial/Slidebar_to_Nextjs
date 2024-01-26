@@ -1,0 +1,5 @@
+$s: 60px;
+
+html {
+  background: repeating-conic-gradient(#000 0% 25%, #eee 0% 50%) 50% / #{$s $s};
+}
